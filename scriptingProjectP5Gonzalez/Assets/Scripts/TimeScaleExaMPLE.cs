@@ -19,7 +19,7 @@ public class TimeScaleExaMPLE : MonoBehaviour
         if (m_IsUsingBulletTime)
         { 
            Time.timeScale = bulletTimeScale.Evaluate(m_UnscaledElapsedTime);
-            m_
+            ;
         }
 
     }
